@@ -1,0 +1,8 @@
+body {
+  background-image: url("download.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  overflow: hidden;
+  height: 100vh;
+}
